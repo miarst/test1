@@ -1,0 +1,1 @@
+{"version":3,"file":"main.js","mappings":";;;;;AACAA,OAAO,CAACC,GAAR,CAAY,aAAZ,E","sources":["webpack://generator-fc-template/./src/js/main.js"],"sourcesContent":["\nconsole.log('Hello world')\n"],"names":["console","log"],"sourceRoot":""}
